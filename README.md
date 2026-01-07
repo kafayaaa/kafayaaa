@@ -26,8 +26,10 @@ I'm a **Full-stack Developer** who bridging the gap between beautiful design and
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kafayaaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kafayaaa&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kafayaaa&show_icons=true&theme=radical" alt="Kafayaaa GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafayaaa&layout=compact&theme=radical" alt="Kafayaaa Top Languages" />
+</p>
 
 ---
 
