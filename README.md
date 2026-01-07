@@ -65,7 +65,7 @@ I don't just write code; I build digital experiences that are intuitive, functio
 
 ### 📫 Let's Collaborate!
 
-I'm always open to interesting projects, open-source collaborations, or just a friendly chat about tech and design.
+I'm always open to interesting projects, open-source collaborations, or just a friendly chat about tech and graphic design.
 
 * 💼 **LinkedIn:** [linkedin.com/in/rizqikafamuntaqa](https://linkedin.com/in/rizqikafamuntaqa)
 * 📧 **Email:** [rizqikafamuntaqa777@gmail.com](mailto:rizqikafamuntaqa777@gmail.com)
