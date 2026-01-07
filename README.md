@@ -15,6 +15,8 @@ I'm a **Full-stack Developer** who bridging the gap between beautiful design and
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,6 +35,6 @@ I'm a **Full-stack Developer** who bridging the gap between beautiful design and
 
 - 💼 LinkedIn: [linkedin.com/in/rizqikafamuntaqa](https://linkedin.com/in/rizqikafamuntaqa)
 - 📧 Email: [rizqikafamuntaqa777@gmail.com](mailto:rizqikafamuntaqa777@gmail.com)
-- 🌐 Portfolio: [kafayaaa.vercel.app]([https://websitekamu.com](https://kafayaaa.vercel.app/))
+- 🌐 Portfolio: [kafayaaa.vercel.app]((https://kafayaaa.vercel.app/))
 
 *"Code is like humor. When you have to explain it, it’s bad."*
