@@ -52,12 +52,6 @@ I don't just write code; I build digital experiences that are intuitive, functio
 
 ---
 
-### 📊 My GitHub Journey
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kafayaaa&show_icons=true&theme=radical)
-
----
-
 ### 📊 GitHub Activity
 ![Kafayaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kafayaaa&theme=radical)
 
