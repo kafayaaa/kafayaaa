@@ -52,11 +52,6 @@ I don't just write code; I build digital experiences that are intuitive, functio
 
 ---
 
-### 📊 My GitHub Activity
-![Kafayaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kafayaaa&theme=radical)
-
----
-
 ## 🌟 Featured Projects
 
 ### 🚀 [ShutterUp - Camera Webstore](https://github.com/kafayaaa/shutterup)
