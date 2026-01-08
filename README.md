@@ -57,16 +57,40 @@ I don't just write code; I build digital experiences that are intuitive, functio
 
 ---
 
-### 🚀 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Circle**](https://github.com/kafayaaa/circle-app) | High-performance social media platform (Threads-like) with real-time interaction. | React, Express, Redis, Docker, Redux |
-| [**ShutterUp**](https://github.com/kafayaaa/shutterup) | Premium Fullstack E-commerce for camera and photography gear with Midtrans integration. | Next.js, Supabase, Midtrans, Tailwind |
-| [**Framey**](https://github.com/kafayaaa/framey) | Online Photo Studio Booking system to manage schedules and photography packages. | Laravel, Livewire, PostgreSQL, Tailwind |
-| [**Skindex**](https://github.com/kafayaaa/skindex) | AI-powered skin health companion for analysis and personalized skincare advice. | Next.js, Google Gemini AI, Tailwind |
-| [**Career Coach**](https://github.com/kafayaaa/quick-career-coach) | AI career platform for generating insights, resumes, and interview prep. | Next.js, Google Gemini AI, Clerk, Prisma |
-| [**InstaCard**](https://github.com/kafayaaa/insta-card) | Fullstack digital profile card generator with real-time preview and QR Code sharing. | Next.js, Express, Framer Motion, QR API |
+### 🚀 [ShutterUp - Camera Webstore](https://github.com/kafayaaa/shutterup)
+**Next.js 15 | Supabase | Midtrans | Tailwind CSS**
+* Developed a premium full-stack e-commerce platform specialized in photography gear.
+* Integrated **Midtrans Payment Gateway** for secure transactions and automated payment status updates.
+* Engineered a comprehensive **Admin Dashboard** for product inventory and order management.
+
+### ⭕ [CircleApp - Real-time Network](https://github.com/kafayaaa/circle-app)
+**React Vite | Express.js | PostgreSQL | Redis | Docker**
+* Created a social networking engine with **Real-time Interactions** (likes, comments, and notifications).
+* Optimized **PostgreSQL** relational schemas for high-performance Many-to-Many data handling.
+* Implemented **Redis caching** and **Docker** containerization for a scalable and consistent environment.
+
+### 📅 [Framey - Studio Booking](https://github.com/kafayaaa/framey)
+**Laravel 11 | Livewire | PostgreSQL | Tailwind CSS**
+* Developed a specialized online booking platform for photo studios with a reactive user interface.
+* Built an automated scheduling system allowing clients to book sessions and choose photography packages.
+* Integrated a robust **Admin Management** system for tracking orders and updating studio availability.
+
+### 🧬 [Skindex - AI Health Tool](https://github.com/kafayaaa/skindex)
+**Next.js 15 | Google Gemini AI | Supabase | TypeScript**
+* Built an intelligent skin health companion that leverages **Gemini AI** to analyze skin conditions from photos.
+* Engineered smart categorization logic to provide personalized skincare routines based on AI insights.
+
+### 💼 [Quick Career Coach](https://github.com/kafayaaa/quick-career-coach)
+**Next.js | Google Gemini AI | Clerk Auth | Prisma**
+* Developed an AI-powered platform to automate data extraction for ATS-friendly resumes and interview prep.
+* Implemented secure professional authentication and profile management using **Clerk**.
+
+### 🔳 [InstaCard - Profile Generator](https://github.com/kafayaaa/insta-card)
+**Next.js | Express.js | Framer Motion | QR Code API**
+* Created a sleek digital card generator with **Real-time Previews** of social profile information.
+* Integrated an automated **QR Code algorithm** to generate shareable links for public profile cards.
 
 ---
 
