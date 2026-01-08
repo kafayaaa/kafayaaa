@@ -63,6 +63,19 @@ I don't just write code; I build digital experiences that are intuitive, functio
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Circle**](https://github.com/kafayaaa/circle-app) | High-performance social media platform (Threads-like) with real-time interaction. | React, Express, Redis, Docker, Redux |
+| [**ShutterUp**](https://github.com/kafayaaa/shutterup) | Premium Fullstack E-commerce for camera and photography gear with Midtrans integration. | Next.js, Supabase, Midtrans, Tailwind |
+| [**Framey**](https://github.com/kafayaaa/framey) | Online Photo Studio Booking system to manage schedules and photography packages. | Laravel, Livewire, PostgreSQL, Tailwind |
+| [**Skindex**](https://github.com/kafayaaa/skindex) | AI-powered skin health companion for analysis and personalized skincare advice. | Next.js, Google Gemini AI, Tailwind |
+| [**Career Coach**](https://github.com/kafayaaa/quick-career-coach) | AI career platform for generating insights, resumes, and interview prep. | Next.js, Google Gemini AI, Clerk, Prisma |
+| [**InstaCard**](https://github.com/kafayaaa/insta-card) | Fullstack digital profile card generator with real-time preview and QR Code sharing. | Next.js, Express, Framer Motion, QR API |
+
+---
+
 ### 📫 Let's Collaborate!
 
 I'm always open to interesting projects, open-source collaborations, or just a friendly chat about tech and graphic design.
