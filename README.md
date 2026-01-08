@@ -67,7 +67,7 @@ I don't just write code; I build digital experiences that are intuitive, functio
 * Implemented **Redis caching** and **Docker** containerization for a scalable and consistent environment.
 
 ### 📅 [Framey - Studio Booking](https://github.com/kafayaaa/framey)
-**Laravel 11 | Livewire | PostgreSQL | Tailwind CSS**
+**Laravel 12 | Livewire | PostgreSQL | Tailwind CSS**
 * Developed a specialized online booking platform for photo studios with a reactive user interface.
 * Built an automated scheduling system allowing clients to book sessions and choose photography packages.
 * Integrated a robust **Admin Management** system for tracking orders and updating studio availability.
@@ -78,7 +78,7 @@ I don't just write code; I build digital experiences that are intuitive, functio
 * Engineered smart categorization logic to provide personalized skincare routines based on AI insights.
 
 ### 💼 [Quick Career Coach](https://github.com/kafayaaa/quick-career-coach)
-**Next.js | Google Gemini AI | Clerk Auth | Prisma**
+**Next.js | Google Gemini AI | Prisma**
 * Developed an AI-powered platform to automate data extraction for ATS-friendly resumes and interview prep.
 * Implemented secure professional authentication and profile management using **Clerk**.
 
