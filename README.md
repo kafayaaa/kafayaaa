@@ -52,7 +52,7 @@ I don't just write code; I build digital experiences that are intuitive, functio
 
 ---
 
-### 📊 GitHub Activity
+### 📊 My GitHub Activity
 ![Kafayaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kafayaaa&theme=radical)
 
 ---
