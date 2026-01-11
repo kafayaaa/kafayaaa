@@ -80,7 +80,9 @@ I don't just write code; I build digital experiences that are intuitive, functio
 ### 💼 [Quick Career Coach](https://github.com/kafayaaa/quick-career-coach)
 **Next.js | Google Gemini AI | Prisma**
 * Developed an AI-powered platform to automate data extraction for ATS-friendly resumes and interview prep.
-* Implemented secure professional authentication and profile management using **Clerk**.
+* Engineered a **Skill Gap Analysis** feature that compares user profiles against specific job descriptions to identify missing competencies.
+* Implemented an **AI CV Auditor** to detect weaknesses in resumes and provide actionable suggestions for improvement.
+* Integrated **Future Career Insights** to provide long-term professional growth projections based on optimized CV data.
 
 ### 🔳 [InstaCard - Profile Generator](https://github.com/kafayaaa/insta-card)
 **Next.js | Express.js | Framer Motion | QR Code API**
@@ -88,6 +90,8 @@ I don't just write code; I build digital experiences that are intuitive, functio
 * Integrated an automated **QR Code algorithm** to generate shareable links for public profile cards.
 
 ---
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafayaaa&show_icons=true&theme=tokyonight)
 
 ### 📫 Let's Collaborate!
 
